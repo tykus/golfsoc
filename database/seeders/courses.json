@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Castle Barna Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/barna.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cobh Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/cobh.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Moyvalley Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/moyvalley.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Seapoint Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/seapoint.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Portmarnock Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/portmarnock.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Galway Bay Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/galway.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Fota Island Resort - Deerpark Course",
+        "deleted_at": null,
+        "logo": "\/logos\/fota.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Carton House - O'Meara Course",
+        "deleted_at": null,
+        "logo": "\/logos\/carton.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Rosapenna - Old Tom Morris Links",
+        "deleted_at": null,
+        "logo": "\/logos\/rosapenna.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Rosapenna - Sandy Hills",
+        "deleted_at": null,
+        "logo": "\/logos\/rosapenna.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Elmgreen Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/elmgreen.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Esker Hills Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/esker.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Bellewstown Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/bellewstown.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Castleknock Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/castleknock.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Palmerstown Stud Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/palmerstown.jpg"
+    },
+    {
+        "id": 16,
+        "name": "New Forest Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/forest.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Knightsbrook Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/knightsbrook.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Powerscourt Golf Club - East Course",
+        "deleted_at": null,
+        "logo": "\/logos\/powerscourt.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Lahinch - Castle Course",
+        "deleted_at": null,
+        "logo": "\/logos\/lahinch.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Lahinch Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/lahinch.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Knockanally Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/knockanally.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Laytown\/Bettystown Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/laytown.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Carlow Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/carlow.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Tulfarris Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/tulfarris.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Mount Juliet",
+        "deleted_at": null,
+        "logo": "\/logos\/juliet.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Castlerosse Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/castlerosse.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Headfort Golf Club - New Course",
+        "deleted_at": null,
+        "logo": "\/logos\/headfort.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Luttrellstown Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/luttrellstown.jpg"
+    },
+    {
+        "id": 29,
+        "name": "County Sligo Golf Course",
+        "deleted_at": null,
+        "logo": "\/logos\/sligo.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Enniscrone Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/enniscrone.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Malone Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/malone.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Holywood Golf Club",
+        "deleted_at": null,
+        "logo": "\/logos\/holywood.jpg"
+    }
+]
