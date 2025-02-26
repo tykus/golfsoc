@@ -19,6 +19,7 @@ class DatabaseSeeder extends Seeder
             \App\Models\User::class => database_path('seeders/golfers.json'),
             \App\Models\Course::class => database_path('seeders/courses.json'),
             \App\Models\Hole::class => database_path('seeders/holes.json'),
+            \App\Models\Competition::class => database_path('seeders/competitions.json'),
         ])->each(function ($path, $model) {
             throw_unless(File::exists($path), new FileNotFoundException(path: $path));
             collect(File::json($path))->each(fn($seed) => $model::factory()->create($seed));
