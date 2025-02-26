@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Chopper 2010",
+        "date": "2010-10-02",
+        "course_id": 1,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper I 2011",
+        "date": "2011-07-09",
+        "course_id": 2,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper II 2011",
+        "date": "2011-10-01",
+        "course_id": 3,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2012",
+        "date": "2012-06-09",
+        "course_id": 4,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2013",
+        "date": "2013-04-06",
+        "course_id": 5,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2014",
+        "date": "2014-07-05",
+        "course_id": 6,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc 2015",
+        "date": "2015-07-03",
+        "course_id": 7,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2015",
+        "date": "2015-07-04",
+        "course_id": 8,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2015",
+        "date": "2015-10-03",
+        "course_id": 9,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2016",
+        "date": "2016-04-09",
+        "course_id": 10,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2016",
+        "date": "2016-07-02",
+        "course_id": 11,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2016",
+        "date": "2016-11-12",
+        "course_id": 12,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2017",
+        "date": "2017-05-13",
+        "course_id": 13,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2017",
+        "date": "2017-06-30",
+        "course_id": 14,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2017",
+        "date": "2017-07-01",
+        "course_id": 15,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc III 2017",
+        "date": "2017-10-07",
+        "course_id": 16,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2018",
+        "date": "2018-01-13",
+        "course_id": 17,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2018",
+        "date": "2018-04-28",
+        "course_id": 18,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc III 2018",
+        "date": "2018-05-25",
+        "course_id": 19,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc IV 2018",
+        "date": "2018-06-29",
+        "course_id": 20,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2018",
+        "date": "2018-06-30",
+        "course_id": 21,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc V 2018",
+        "date": "2018-10-06",
+        "course_id": 22,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc VI 2018",
+        "date": "2018-12-16",
+        "course_id": 23,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2019",
+        "date": "2019-06-21",
+        "course_id": 24,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2019",
+        "date": "2018-07-01",
+        "course_id": 25,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2019",
+        "date": "2019-10-12",
+        "course_id": 26,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2010",
+        "date": "2010-10-02",
+        "course_id": 1,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper I 2011",
+        "date": "2011-07-09",
+        "course_id": 11,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper II 2011",
+        "date": "2011-10-01",
+        "course_id": 12,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2012",
+        "date": "2012-06-09",
+        "course_id": 13,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2013",
+        "date": "2013-04-06",
+        "course_id": 15,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2014",
+        "date": "2014-07-05",
+        "course_id": 6,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc 2015",
+        "date": "2015-07-03",
+        "course_id": 19,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2015",
+        "date": "2015-07-04",
+        "course_id": 20,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2015",
+        "date": "2015-10-03",
+        "course_id": 17,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2016",
+        "date": "2016-04-09",
+        "course_id": 3,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2016",
+        "date": "2016-07-02",
+        "course_id": 8,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2016",
+        "date": "2016-11-12",
+        "course_id": 4,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2017",
+        "date": "2017-05-13",
+        "course_id": 24,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2017",
+        "date": "2017-06-30",
+        "course_id": 23,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2017",
+        "date": "2017-07-01",
+        "course_id": 25,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc III 2017",
+        "date": "2017-10-07",
+        "course_id": 21,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2018",
+        "date": "2018-01-13",
+        "course_id": 18,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2018",
+        "date": "2018-04-28",
+        "course_id": 27,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc III 2018",
+        "date": "2018-05-25",
+        "course_id": 26,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc IV 2018",
+        "date": "2018-06-29",
+        "course_id": 2,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2018",
+        "date": "2018-06-30",
+        "course_id": 7,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc V 2018",
+        "date": "2018-10-06",
+        "course_id": 22,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc VI 2018",
+        "date": "2018-12-16",
+        "course_id": 5,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc I 2019",
+        "date": "2019-06-21",
+        "course_id": 9,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    },
+    {
+        "name": "Chopper 2019",
+        "date": "2018-07-01",
+        "course_id": 10,
+        "type": "chopper",
+        "scorer": "stableford"
+    },
+    {
+        "name": "ChopSoc II 2019",
+        "date": "2019-10-12",
+        "course_id": 28,
+        "type": "chopsoc",
+        "scorer": "stableford"
+    }
+]
