@@ -3,8 +3,10 @@
 namespace Database\Seeders;
 
 use App\Models\User;
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\File;
+use Symfony\Component\HttpFoundation\File\Exception\FileNotFoundException;
 
 class DatabaseSeeder extends Seeder
 {
@@ -13,11 +15,11 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // User::factory(10)->create();
-
-        User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
-        ]);
+        collect([
+            \App\Models\Course::class => database_path('seeders/courses.json'),
+        ])->each(function ($path, $model) {
+            throw_unless(File::exists($path), new FileNotFoundException(path: $path));
+            collect(File::json($path))->each(fn($seed) => $model::factory()->create($seed));
+        });
     }
 }
