@@ -17,6 +17,7 @@ class DatabaseSeeder extends Seeder
     {
         collect([
             \App\Models\Course::class => database_path('seeders/courses.json'),
+            \App\Models\Hole::class => database_path('seeders/holes.json'),
         ])->each(function ($path, $model) {
             throw_unless(File::exists($path), new FileNotFoundException(path: $path));
             collect(File::json($path))->each(fn($seed) => $model::factory()->create($seed));
