@@ -1,0 +1,138 @@
+[
+    {
+        "type": "golfer",
+        "name": "Shane",
+        "surname": "Kirwan",
+        "email": "shane@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "David",
+        "surname": "Kirwan",
+        "email": "david@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Brendan",
+        "surname": "Gogan",
+        "email": "brendan@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Colin",
+        "surname": "Folan",
+        "email": "folan@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Brian",
+        "surname": "O'Sullivan",
+        "email": "brian@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Alan",
+        "surname": "Power",
+        "email": "alan@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Robbie",
+        "surname": "Gill",
+        "email": "robbie@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Jon",
+        "surname": "Sempers",
+        "email": "jon@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Robbie",
+        "surname": "O'Neill",
+        "email": "robbieoneill@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Eoin",
+        "surname": "Kelly",
+        "email": "eoin@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Mark",
+        "surname": "Macadden",
+        "email": "mark@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Stephen",
+        "surname": "Kelly",
+        "email": "stephen@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Peter",
+        "surname": "Gill",
+        "email": "peter@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Trevor",
+        "surname": "Gill",
+        "email": "trevor@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Ethan",
+        "surname": "Astor",
+        "email": "ethan@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Kevin",
+        "surname": "Kelly",
+        "email": "kevin@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    },
+    {
+        "type": "golfer",
+        "name": "Fintan",
+        "surname": "Murphy",
+        "email": "fintan@example.com",
+        "email_verified_at": null,
+        "remember_token": null
+    }
+]

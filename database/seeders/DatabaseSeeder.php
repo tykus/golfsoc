@@ -16,6 +16,7 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         collect([
+            \App\Models\User::class => database_path('seeders/golfers.json'),
             \App\Models\Course::class => database_path('seeders/courses.json'),
             \App\Models\Hole::class => database_path('seeders/holes.json'),
         ])->each(function ($path, $model) {
